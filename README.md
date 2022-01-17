@@ -1,7 +1,7 @@
-# Desfio DIO
+# Desafio DIO
 ## Primeiro Repositório
 
 Para testar os conhecimentos em Git/GitHub
 
-[Link do Curso](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/d5854276-7461-4b80-96e3-e8b6f9b21eeb)
+[Link do Curso](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c)
 
